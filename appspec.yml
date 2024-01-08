@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /wordpress_data/
     destination: /bitnami/wordpress/
 file_exists_behavior: OVERWRITE
 #hooks:
