@@ -3,3 +3,4 @@
 /.idea/
 /wordpress_data/wp-content/uploads
 /wordpress_data/wp-content/upgrade
+/wordpress_data/wp-config.php
